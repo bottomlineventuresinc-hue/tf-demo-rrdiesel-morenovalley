@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential and commercial electrical across Moreno Valley and the Inland Empire. Richard looks at the job first and puts the price in writing.';
+            'Residential and commercial electrical in Moreno Valley. Richard looks at the job first and puts the price in writing.';
         }
       }
     },
